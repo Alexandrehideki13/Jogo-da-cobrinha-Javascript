@@ -1,3 +1,9 @@
+html {
+    background-image: url(https://pa1.narvii.com/7135/91f4d95b423a041f1300df6c64f58ddf116b9f42r1-700-450_hq.gif);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
 body {
     height: 95vh;
     width: 95;
@@ -5,5 +11,5 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: rgb(30, 110, 30);
+    color: rgb(1, 105, 1);
 }
