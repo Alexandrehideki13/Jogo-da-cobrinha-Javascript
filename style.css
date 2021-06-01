@@ -5,6 +5,7 @@ html {
 }
 
 body {
+    background-color: none;
     height: 95vh;
     width: 95;
     display: flex;
