@@ -4,7 +4,7 @@ Projeto feito aprendendo e acompanhando as aulas do bootcamp HTML web developer 
 
 Site devidamente online, e bonito que só
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5a532299-b8c0-413b-9edb-56c92100745c/deploy-status)](https://app.netlify.com/sites/snake-game-hideki/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a532299-b8c0-413b-9edb-56c92100745c/deploy-status)](https://app.netlify.com/sites/snake-game-hideki/deploys/?target=_blank)
 
 <p>Caso queiram jogar o Snake Game 🐍 é só clicar em qualquer imagem ou <a href="https://snake-game-hideki.netlify.app/" targer="_blank">clicar aqui</a></p>
 
