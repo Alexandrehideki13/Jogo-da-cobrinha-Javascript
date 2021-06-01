@@ -1,3 +1,12 @@
+html,
+body,
+input,
+textarea,
+select,
+button {
+    background-color: none !important;
+}
+
 html {
     background-image: url(https://pa1.narvii.com/7135/91f4d95b423a041f1300df6c64f58ddf116b9f42r1-700-450_hq.gif);
     background-repeat: no-repeat;
@@ -5,7 +14,6 @@ html {
 }
 
 body {
-    background-color: none !important;
     height: 95vh;
     width: 95;
     display: flex;
